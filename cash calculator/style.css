@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* overflow: hidden; */
+}
+
+.container
+{
+   height: 500px;
+   width: 800px;
+   /* border: 2px solid black; */
+   margin-top: 100px;
+   border-radius: 15px;
+   box-shadow: 1px 1px 20px black;
+   font-size: 20px;
+   font-weight: bold;
+   /* background-color: red; */
+}
+
+h1
+{
+    padding-top: 20px;
+}
+
+table
+{
+ margin-top: 40px;
+}
+
+.edit
+{
+    font-size: 20px;
+    margin-right: 310px;
+    margin-top: 30px;
+}
+#total
+{
+    font-size: 20px;
+    /* margin-right: 310px; */
+    margin-top: -20px;
+}
